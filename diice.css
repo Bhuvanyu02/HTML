@@ -1,0 +1,33 @@
+body {
+  background-color: #85c88a;
+}
+h1{
+    margin-top: 50px;
+    font-size:100px;
+    font-family:cursive;
+}
+#img1 {
+  margin-top:50px;
+  height: 200px;
+  width: 200px;
+  margin-right: 25px;
+  background-color: #faf0d7;
+  border-radius: 13%;
+}
+#img2 {
+  margin-top: 50px;
+  height: 200px;
+  margin-left: 25px;
+  width: 200px;
+  background-color: #faf0d7;
+  border-radius: 13%;
+}
+#btn {
+  height: 100px;
+  width: 200px;
+  margin-top: 4%;
+  font-size: 20px;
+  border-radius: 999px;
+  color: white;
+  background-color: red;
+}
